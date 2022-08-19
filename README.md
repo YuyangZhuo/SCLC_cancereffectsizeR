@@ -8,6 +8,8 @@ For NSCLC, there is a whole-exome-sequencing dataset from TRACERx [1], and both 
 
 For SCLC, there are four datasets. One target-genome-sequencing data from GENIE [2], two whole-exome-sequencing datasets from Jiang’s[3] and Zhou’s[4] paper. Notice that for Jiang’s WES data, the clinical data are not provided, but that does not affect the cancer effect size analysis. Finally, there’s a whole-genome-sequencing dataset from cBioportal[5].
 
+## Citations
+
 
 1. Jamal-Hanjani, M. et al. Tracking the Evolution of Non-Small-Cell Lung Cancer. N. Engl. J. Med. 376, 2109–2121 (2017).
 2. Consortium, T. A. P. G. et al. AACR Project GENIE: Powering Precision Medicine through an International Consortium. Cancer Discovery vol. 7 818–831 (2017).
