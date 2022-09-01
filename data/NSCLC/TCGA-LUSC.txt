@@ -1,0 +1,5 @@
+Use the code below to obtain TCGA-LUSC.maf file in R. Noticed that the cancereffectsizeR package need to be 2.6.3 or above.
+
+library(cancereffectsizeR) 
+setwd(directory to save files)
+get_TCGA_project_MAF(project = 'LUSC', filename = 'TCGA-LUSC.maf.gz')
