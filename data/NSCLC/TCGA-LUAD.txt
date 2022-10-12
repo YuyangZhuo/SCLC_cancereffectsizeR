@@ -1,0 +1,2 @@
+Since the file is too big to upload to GitHub, the link toward TCGA-LUAD.maf is shown below.
+https://portal.gdc.cancer.gov/exploration?facetTab=mutations&filters=%7B%22content%22%3A%5B%7B%22content%22%3A%7B%22field%22%3A%22cases.project.project_id%22%2C%22value%22%3A%5B%22TCGA-LUAD%22%5D%7D%2C%22op%22%3A%22in%22%7D%5D%2C%22op%22%3A%22and%22%7D
