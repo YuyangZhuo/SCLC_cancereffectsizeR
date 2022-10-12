@@ -1,0 +1,2 @@
+Since the file is too big to upload to GitHub, the link to TCGA-LUSC.maf is shown below.
+https://portal.gdc.cancer.gov/projects/TCGA-LUSC
